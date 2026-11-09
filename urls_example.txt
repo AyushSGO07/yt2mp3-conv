@@ -1,0 +1,6 @@
+# Paste your YouTube URLs below (one per line)
+# Lines starting with # are ignored.
+# You can run: python downloader.py --batch urls_example.txt
+
+# Example tracks:
+# https://www.youtube.com/watch?v=jNQXAC9IVRw
